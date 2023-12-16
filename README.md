@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a [customer performance report](https://github.com/AdityaJadhav04/Excel-Sales-Analytics/blob/main/All_Customer_Reports.pdf) 
+    **1.** Created a [customer performance report](https://github.com/AdityaJadhav04/Excel-Sales-Analytics/blob/main/All_Customer_Reports.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AdityaJadhav04/Excel-Sales-Analytics/blob/main/market_performance_VS_target.pdf)_
+    **2.** Generated a comprehensive comparison between _[market performance and sales targets](https://github.com/AdityaJadhav04/Excel-Sales-Analytics/blob/main/market_performance_VS_target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf)_ 
+    **1.** Created Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](	https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf)_
+   **2.** Created Profit and Loss (P&L) reports by _[Markets](	https://github.com/AdityaJadhav04/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
